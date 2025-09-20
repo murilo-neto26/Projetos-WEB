@@ -3,7 +3,7 @@
 
 - [Projeto 1](https://murilo-neto26.github.io/Projeto-01/)
 - [Projeto 2](https://murilo-neto26.github.io/Projeto-02/)
-- [Projeto 3]()
+- [Projeto 3](https://murilo-neto26.github.io/Projeto-03/)
 - [Projeto 4]()
 - [Projeto 5]()
 - [Projeto 6]()
